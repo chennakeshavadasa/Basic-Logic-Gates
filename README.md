@@ -1,2 +1,2 @@
 # Basic-Logic-Gates
-Basic Logic gates using Cadence
+- I'm learning CMOS VLSI Design using Cadence, This is Basic Login Gates using Cadence Virtuoso
